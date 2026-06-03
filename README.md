@@ -48,16 +48,6 @@ text src/ ├── components/ │   ├── RequestBuilder.js │   └─�
 4. Inspect the response using multiple viewing modes.
 5. Copy or download the response data.
 
-## Key Concepts Demonstrated
-
-- ES6 Classes
-- JavaScript Modules
-- Fetch API
-- DOM Manipulation
-- Event Handling
-- JSON Processing
-- Component-Based Architecture
-- Separation of Concerns
 
 ## Future Enhancements
 
